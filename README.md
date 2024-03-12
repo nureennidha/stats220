@@ -5,5 +5,5 @@
 1. **Creating memes with R** 🎨🖌️:
    * This project was made using content I learnt from labs and lectures relating to course Module 1: Creating HTML by combining modern technologies.
    * Involved researching for an inspo meme and analysing it's design in order to create my own meme.
-   * After creating the meme, it was animated into a gif.
+   * The meme was then animated into a gif.
 
