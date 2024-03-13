@@ -7,3 +7,5 @@
    * Involved researching for an inspo meme and analysing it's design in order to create my own meme.
    * The meme was then animated into a gif.
 
+## **Link to Project HTMLs** 🔗:
+* Project 1: 
