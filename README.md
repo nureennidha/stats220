@@ -8,4 +8,4 @@
    * The meme was then animated into a gif.
 
 ## **Link to my LinkedIn Profile** 🔗:
-Follow my [LinkedIn](https://www.linkedin.com/in/nidha-nureen-0b65372a1/)
+Follow my [LinkedIn](https://www.linkedin.com/in/nidha-nureen-0b65372a1/) 😊
